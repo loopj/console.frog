@@ -1,0 +1,15 @@
+{
+    "name": "console.frog",
+    "version": "1.0.0",
+    "description": "A bad pun for your JavaScript console",
+    "main": "console-frog.js",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/loopj/console.frog"
+    },
+    "author": {
+        "name": "James Smith",
+        "email": "james@loopj.com"
+    },
+    "license": "MIT"
+}

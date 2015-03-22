@@ -1,0 +1,10 @@
+{
+  "name": "console.frog",
+  "version": "1.0.0",
+  "authors": [
+    "James Smith <james@loopj.com>"
+  ],
+  "description": "A bad pun for JavaScript your console",
+  "main": "console-frog.js",
+  "license": "MIT"
+}
